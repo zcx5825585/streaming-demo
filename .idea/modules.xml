@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/socket.iml" filepath="$PROJECT_DIR$/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-server/socket-server.iml" filepath="$PROJECT_DIR$/socket-server/socket-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-client/spark-client.iml" filepath="$PROJECT_DIR$/spark-client/spark-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talkroom/talkroom.iml" filepath="$PROJECT_DIR$/talkroom/talkroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/word_count/word_count.iml" filepath="$PROJECT_DIR$/word_count/word_count.iml" />
+    </modules>
+  </component>
+</project>
